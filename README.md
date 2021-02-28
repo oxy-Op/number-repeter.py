@@ -1,15 +1,22 @@
 # number-repeter.py
 
-#Termux-usage
-**First Open Termux **
+# Termux-usage
+**First Open Termux**
 Write Following Commands:-
  1• __pkg apt upgrade && update__
+ 
  2• __pkg install git__
+ 
  3• __pkg install python__
+ 
  4• __git clone https://github.com/oxy-Op/number-repeter.py
+ 
  5• __cd repeter.py__
+ 
  6• __ls__
+ 
  7•__python repeater.py__
+ 
 **ENJOY**
 
 #Repl.it Usage:-

@@ -25,7 +25,7 @@ Write Following Commands:-
 Just Import this file from github And Run:
 
 # Glitch or any terminal Usage:-
-**Open Terminal Type 
+**Open Terminal Type**
 
 `pip install python`
 

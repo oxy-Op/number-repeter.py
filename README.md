@@ -18,13 +18,13 @@ Write Following Commands:-
  
  7•`python repeater.py`
  
-**ENJOY**
 
-#Repl.it Usage:-
+
+# Repl.it Usage:-
 
 Just Import this file from github And Run:
 
-#Glitch or any terminal Usage:-
+# Glitch or any terminal Usage:-
 **Open Terminal Type 
 
 `pip install python`

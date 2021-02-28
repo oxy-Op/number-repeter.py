@@ -3,27 +3,31 @@
 # Termux-usage
 **First Open Termux**
 Write Following Commands:-
- 1• __pkg apt upgrade && update__
+
+ 1• `pkg apt upgrade && update`
  
- 2• __pkg install git__
+ 2• `pkg install git`
  
- 3• __pkg install python__
+ 3• `pkg install python`
  
- 4• __git clone https://github.com/oxy-Op/number-repeter.py
+ 4• `git clone https://github.com/oxy-Op/number-repeter.py`
  
- 5• __cd repeter.py__
+ 5• `cd repeter.py`
  
- 6• __ls__
+ 6• `ls`
  
- 7•__python repeater.py__
+ 7•`python repeater.py`
  
 **ENJOY**
 
 #Repl.it Usage:-
+
 Just Import this file from github And Run:
 
 #Glitch or any terminal Usage:-
-**Open Terminal Type __pip install python**
+**Open Terminal Type 
+
+`pip install python`
 
 `poetry -m repeater.py`
 Or
